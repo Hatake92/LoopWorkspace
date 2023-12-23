@@ -1,6 +1,3 @@
-fastlane match nuke development
-fastlane match nuke distribution
-fastlane match nuke enterprise
 
 GITHUB_REPOSITORY_OWNER ||= ENV["GITHUB_REPOSITORY_OWNER"]
 
